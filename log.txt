@@ -1,0 +1,9 @@
+7bd7c37 (HEAD -> main) Updated Task 2.4
+9d9c3e6 Completed Task 2.4
+dacd729 Completed Task 2.3
+a36a4a2 Completed Task 2.2
+b21aa80 Completed Task 2.1
+474f6c8 refactor swtich
+7a75674 Completed Task 1.2
+867b18c (origin/main, origin/HEAD) Completed Task 1.1
+a6d217c Initial commit
